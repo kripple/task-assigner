@@ -1,0 +1,44 @@
+[
+  {
+    "id": "001",
+    "name": "Caitlyn",
+    "count": 0,
+    "multiplier": 1
+  },
+  {
+    "id": "002",
+    "name": "Dan",
+    "count": 0,
+    "multiplier": 1
+  },
+  {
+    "id": "003",
+    "name": "Diego",
+    "count": 0,
+    "multiplier": 1
+  },
+  {
+    "id": "004",
+    "name": "Jason",
+    "count": 0,
+    "multiplier": 1
+  },
+  {
+    "id": "005",
+    "name": "Justin",
+    "count": 0,
+    "multiplier": 1
+  },
+  {
+    "id": "006",
+    "name": "Kelly",
+    "count": 0,
+    "multiplier": 1
+  },
+  {
+    "id": "007",
+    "name": "Kevin",
+    "count": 0,
+    "multiplier": 1
+  }
+]
